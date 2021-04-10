@@ -1,15 +1,33 @@
-## Hey there, I'm Claudio Romero!
+<h2 align='center'>Hey there, I'm Claudio 👋</h2>
+<p align='center'>I'm a software developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span></p>
+<p align='center'>
+  <a href="https://twitter.com/romerolrocha">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/claudiorlr/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-I'm a software developer and I've been playing around building stuff for the last 15 years.
+### About me
 
-Some years ago, I learned about **React.js** and started studying (and using) it as much as I could. The practice only made me liking it more and more, and gave me some very special opportunities. I was lucky enough to write the [official translation of an excellent React book](https://github.com/the-road-to-learn-react) to my own language and to contribute to the main project, as well.
+- I'm a software developer who has been building stuff for the last 15 years.
+- Some years ago, I heard about **React.js** and started studying and using it as much as I could.
+- The practicing only made me liking it even more and I was lucky enough to translate a top rated [React book](https://github.com/the-road-to-learn-react) to Portuguese.
+- I've also worked as a code reviewer for a remote-teaching company, putting my hands on source code from different knowledge levels and coding styles.
+- I love coding and I'm happy working on it everyday, and I really enjoy teaching other people how to build good software.
+- **I believe that teaching is a very powerful learning tool**! :rocket:
 
-I've also worked as a code reviewer for a huge remote-teaching company, where I was able to get my hands "dirty" (in a good sense) with all kinds of source code, of different knowledge levels, coding styles and programming skills. It was awesome to keep in touch with so many people from every corner of the (software development) world! 
+### I'm currently working with...
 
-I love to code and I'm very happy working on it, and I really enjoy teaching other people how to build good computer software. I believe that **teaching** is a very powerful **learning** tool.
+JavaScript, React + Redux, Java (Spring)
 
-I try to stay hungry and keep studying. React and its massive ecosystem (of course), JavaScript, TypeScript, Next.js, NodeJS and Golang (just a bit) are the main subjects at the moment (mostly because I work as a full-stack developer).
+### I like studying and playing around with...
 
-### Find me online
-**Twitter**: [https://twitter.com/romerolrocha]
-**Linkedin**: [https://www.linkedin.com/in/claudiorlr]
+Golang, Rust, System/Low-level Programming, Compilers
+
+### Sometimes I work with...
+
+TypeScript, Node.js, Next.js, GraphQL
+
+### What am I doing here?
+I've spent a lot of time working for software companies only, so I felt like I could do better contributing to OSS. Keeping that in mind, I'm also trying to work on some of my own ideas, sharing them here, on GitHub :)
