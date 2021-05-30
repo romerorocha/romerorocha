@@ -19,7 +19,7 @@
 
 ### I'm currently working with...
 
-JavaScript, React + Redux, Java (Spring)
+TypeScript/JavaScript, React + Redux, Java (Spring)
 
 ### I like studying and playing around with...
 
@@ -27,7 +27,7 @@ Golang, Rust, System/Low-level Programming, Compilers
 
 ### Sometimes I work with...
 
-TypeScript, Node.js, Next.js, GraphQL
+Node.js, Next.js, GraphQL
 
 ### What am I doing here?
 I've spent a lot of time working for software companies only, so I felt like I could do better contributing to OSS. Keeping that in mind, I'm also trying to work on some of my own ideas, sharing them here, on GitHub :)
