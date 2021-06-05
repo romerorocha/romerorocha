@@ -1,4 +1,4 @@
-<h2 align='center'>Hey there, I'm Claudio 👋</h2>
+<h2 align='center'>Hey there, I'm Claudio</h2>
 <p align='center'>I'm a software developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span></p>
 <p align='center'>
   <a href="https://twitter.com/romerolrocha">
@@ -9,7 +9,6 @@
 </p>
 
 ### About me
-
 - I'm a software developer who has been building stuff for the last 15 years.
 - Some years ago, I heard about **React.js** and started studying and using it as much as I could.
 - The practicing only made me liking it even more and I was lucky enough to translate a top rated [React book](https://github.com/the-road-to-learn-react) to Portuguese.
@@ -18,16 +17,13 @@
 - **I believe that teaching is a very powerful learning tool**! :rocket:
 
 ### I'm currently working with...
-
-TypeScript/JavaScript, React + Redux, Java (Spring)
+React, Redux, TypeScript
 
 ### I like studying and playing around with...
-
 Golang, Rust, System/Low-level Programming, Compilers
 
 ### Sometimes I work with...
-
-Node.js, Next.js, GraphQL
+Java (Spring), JavaScript, Node.js, Next.js, GraphQL
 
 ### What am I doing here?
 I've spent a lot of time working for software companies only, so I felt like I could do better contributing to OSS. Keeping that in mind, I'm also trying to work on some of my own ideas, sharing them here, on GitHub :)
