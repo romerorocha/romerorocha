@@ -9,7 +9,7 @@
 </p>
 
 ### About me
-- I'm a software developer who has been building stuff for the last 15 years.
+- I've been building stuff for the last 15 years.
 - Some years ago, I heard about **React.js** and started studying and using it as much as I could.
 - The practicing only made me liking it even more and I was lucky enough to translate a top rated [React book](https://github.com/the-road-to-learn-react) to Portuguese.
 - I've also worked as a code reviewer for a remote-teaching company, putting my hands on source code from different knowledge levels and coding styles.
