@@ -1,4 +1,4 @@
-<h2 align='center'>Hey there, I'm Claudio</h2>
+<h2 align='center'>Hey there, I'm <a href="http://romerorocha.com" target="_blank">Claudio<a/></h2>
 <p align='center'>I'm a software developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span></p>
 <p align='center'>
   <a href="https://twitter.com/romerolrocha">
@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 **I'm currently working with** React, Redux and TypeScript.
 
