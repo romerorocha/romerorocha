@@ -8,14 +8,6 @@
   </a>
 </p>
 
-### About me
-- I've been building stuff for the last 15 years.
-- Some years ago, I heard about **React.js** and started studying and using it as much as I could.
-- The practicing only made me liking it even more and I was lucky enough to translate a top rated [React book](https://github.com/the-road-to-learn-react) to Portuguese.
-- I've also worked as a code reviewer for a remote-teaching company, putting my hands on source code from different knowledge levels and coding styles.
-- I love coding and I'm happy working on it everyday, and I really enjoy teaching other people how to build good software.
-- **I believe that teaching is a very powerful learning tool**! :rocket:
-
 ### I'm currently working with...
 React, Redux, TypeScript
 
