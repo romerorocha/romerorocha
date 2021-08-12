@@ -8,14 +8,11 @@
   </a>
 </p>
 
-### Currently working with
-React, Redux, TypeScript
+**I'm currently working with** React, Redux and TypeScript.
 
-### I like studying and playing around with
-Golang, Rust, System/Low-level Programming, Compilers
+**I like studying and playing around with** Golang, Rust, System/Low-level Programming and Compilers.
 
-### Sometimes I work with
-Java (Spring), JavaScript, Node.js, Next.js, GraphQL
+**Sometimes I work with** Java (Spring), JavaScript, Node.js, Next.js and GraphQL.
 
 ### What am I doing here?
 I've spent a lot of time working for software companies only, so I felt like I could do better contributing to OSS. Keeping that in mind, I'm also trying to work on some of my own ideas, sharing them here, on GitHub :)
