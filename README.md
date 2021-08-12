@@ -8,13 +8,13 @@
   </a>
 </p>
 
-### I'm currently working with...
+### Currently working with
 React, Redux, TypeScript
 
-### I like studying and playing around with...
+### I like studying and playing around with
 Golang, Rust, System/Low-level Programming, Compilers
 
-### Sometimes I work with...
+### Sometimes I work with
 Java (Spring), JavaScript, Node.js, Next.js, GraphQL
 
 ### What am I doing here?
