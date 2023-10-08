@@ -9,7 +9,7 @@
 </p>
 <br />
 
-**I'm currently working with** React, Redux and TypeScript.
+**I'm currently working with** React and TypeScript.
 
 **I like studying and playing around with** Rust, System/Low-level Programming and Compilers.
 
