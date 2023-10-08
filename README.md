@@ -15,5 +15,4 @@
 
 **Sometimes I work with** Java, JavaScript, Node.js and Next.js.
 
-### What am I doing here?
 I've spent a lot of time coding for software companies, so I felt like I could do better contributing to OSS and also trying to work on some of my own ideas, sharing them here :)
