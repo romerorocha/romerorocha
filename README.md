@@ -9,10 +9,10 @@
 </p>
 <br />
 
-**I'm currently working with** React and TypeScript.
+**I'm currently working with** React (mostly with TypeScript).
 
-**I like studying and playing around with** Rust, System/Low-level Programming and Compilers.
+**I like studying and playing around with** Rust, C/C++, system/low-level programming and compilers.
 
-**Sometimes I work with** Java, JavaScript, Node.js and Next.js.
+**Sometimes I work with** Node.js, Next.js and Java (mostly with Spring)
 
 I've spent a lot of time coding for software companies, so I felt like I could do better contributing to OSS and also trying to work on some of my own ideas, sharing them here :)
